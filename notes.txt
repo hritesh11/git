@@ -1,13 +1,2 @@
-2 89gb space available
-3 102gb
-3 191gb
 
-wiprodba to space claim on node1 lmsdr..
-
-exacheck to run on putty for lms dr server
-
-osc m7 qfsdp Q1 to download
-weekly report to create
-getpass for nilesh for qfsp replacement for chandivali
-
-DR zfs storage 10.226.240.146 ak restart to be done-- by toda eod
+nothing
